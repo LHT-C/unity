@@ -1,0 +1,12 @@
+C:\Users\MECHREVO\Desktop\C#进阶\CSharp进阶教学\Lesson25_插入排序\bin\Debug\netcoreapp3.1\Lesson25_插入排序.exe
+C:\Users\MECHREVO\Desktop\C#进阶\CSharp进阶教学\Lesson25_插入排序\bin\Debug\netcoreapp3.1\Lesson25_插入排序.deps.json
+C:\Users\MECHREVO\Desktop\C#进阶\CSharp进阶教学\Lesson25_插入排序\bin\Debug\netcoreapp3.1\Lesson25_插入排序.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\C#进阶\CSharp进阶教学\Lesson25_插入排序\bin\Debug\netcoreapp3.1\Lesson25_插入排序.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\C#进阶\CSharp进阶教学\Lesson25_插入排序\bin\Debug\netcoreapp3.1\Lesson25_插入排序.dll
+C:\Users\MECHREVO\Desktop\C#进阶\CSharp进阶教学\Lesson25_插入排序\bin\Debug\netcoreapp3.1\Lesson25_插入排序.pdb
+C:\Users\MECHREVO\Desktop\C#进阶\CSharp进阶教学\Lesson25_插入排序\obj\Debug\netcoreapp3.1\Lesson25_插入排序.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\C#进阶\CSharp进阶教学\Lesson25_插入排序\obj\Debug\netcoreapp3.1\Lesson25_插入排序.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\C#进阶\CSharp进阶教学\Lesson25_插入排序\obj\Debug\netcoreapp3.1\Lesson25_插入排序.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\C#进阶\CSharp进阶教学\Lesson25_插入排序\obj\Debug\netcoreapp3.1\Lesson25_插入排序.dll
+C:\Users\MECHREVO\Desktop\C#进阶\CSharp进阶教学\Lesson25_插入排序\obj\Debug\netcoreapp3.1\Lesson25_插入排序.pdb
+C:\Users\MECHREVO\Desktop\C#进阶\CSharp进阶教学\Lesson25_插入排序\obj\Debug\netcoreapp3.1\Lesson25_插入排序.genruntimeconfig.cache

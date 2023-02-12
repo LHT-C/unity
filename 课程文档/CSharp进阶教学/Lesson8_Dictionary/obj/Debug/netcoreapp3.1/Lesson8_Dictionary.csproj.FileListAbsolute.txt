@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson8_Dictionary\bin\Debug\netcoreapp3.1\Lesson8_Dictionary.exe
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson8_Dictionary\bin\Debug\netcoreapp3.1\Lesson8_Dictionary.deps.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson8_Dictionary\bin\Debug\netcoreapp3.1\Lesson8_Dictionary.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson8_Dictionary\bin\Debug\netcoreapp3.1\Lesson8_Dictionary.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson8_Dictionary\bin\Debug\netcoreapp3.1\Lesson8_Dictionary.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson8_Dictionary\bin\Debug\netcoreapp3.1\Lesson8_Dictionary.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson8_Dictionary\obj\Debug\netcoreapp3.1\Lesson8_Dictionary.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson8_Dictionary\obj\Debug\netcoreapp3.1\Lesson8_Dictionary.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson8_Dictionary\obj\Debug\netcoreapp3.1\Lesson8_Dictionary.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson8_Dictionary\obj\Debug\netcoreapp3.1\Lesson8_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson8_Dictionary\obj\Debug\netcoreapp3.1\Lesson8_Dictionary.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson8_Dictionary\obj\Debug\netcoreapp3.1\Lesson8_Dictionary.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson8_Dictionary\obj\Debug\netcoreapp3.1\Lesson8_Dictionary.genruntimeconfig.cache

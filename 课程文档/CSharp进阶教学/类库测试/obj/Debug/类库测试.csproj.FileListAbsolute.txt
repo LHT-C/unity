@@ -1,0 +1,5 @@
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\类库测试\bin\Debug\类库测试.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\类库测试\bin\Debug\类库测试.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\类库测试\obj\Debug\类库测试.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\类库测试\obj\Debug\类库测试.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\类库测试\obj\Debug\类库测试.pdb

@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson7_List\bin\Debug\netcoreapp3.1\Lesson7_List.exe
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson7_List\bin\Debug\netcoreapp3.1\Lesson7_List.deps.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson7_List\bin\Debug\netcoreapp3.1\Lesson7_List.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson7_List\bin\Debug\netcoreapp3.1\Lesson7_List.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson7_List\bin\Debug\netcoreapp3.1\Lesson7_List.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson7_List\bin\Debug\netcoreapp3.1\Lesson7_List.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson7_List\obj\Debug\netcoreapp3.1\Lesson7_List.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson7_List\obj\Debug\netcoreapp3.1\Lesson7_List.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson7_List\obj\Debug\netcoreapp3.1\Lesson7_List.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson7_List\obj\Debug\netcoreapp3.1\Lesson7_List.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson7_List\obj\Debug\netcoreapp3.1\Lesson7_List.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson7_List\obj\Debug\netcoreapp3.1\Lesson7_List.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson7_List\obj\Debug\netcoreapp3.1\Lesson7_List.genruntimeconfig.cache

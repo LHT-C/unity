@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson23_特殊语法\bin\Debug\netcoreapp3.1\Lesson23_特殊语法.exe
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson23_特殊语法\bin\Debug\netcoreapp3.1\Lesson23_特殊语法.deps.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson23_特殊语法\bin\Debug\netcoreapp3.1\Lesson23_特殊语法.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson23_特殊语法\bin\Debug\netcoreapp3.1\Lesson23_特殊语法.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson23_特殊语法\bin\Debug\netcoreapp3.1\Lesson23_特殊语法.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson23_特殊语法\bin\Debug\netcoreapp3.1\Lesson23_特殊语法.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson23_特殊语法\obj\Debug\netcoreapp3.1\Lesson23_特殊语法.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson23_特殊语法\obj\Debug\netcoreapp3.1\Lesson23_特殊语法.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson23_特殊语法\obj\Debug\netcoreapp3.1\Lesson23_特殊语法.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson23_特殊语法\obj\Debug\netcoreapp3.1\Lesson23_特殊语法.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson23_特殊语法\obj\Debug\netcoreapp3.1\Lesson23_特殊语法.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson23_特殊语法\obj\Debug\netcoreapp3.1\Lesson23_特殊语法.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson23_特殊语法\obj\Debug\netcoreapp3.1\Lesson23_特殊语法.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson1_ArrayList\bin\Debug\netcoreapp3.1\Lesson1_ArrayList.exe
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson1_ArrayList\bin\Debug\netcoreapp3.1\Lesson1_ArrayList.deps.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson1_ArrayList\bin\Debug\netcoreapp3.1\Lesson1_ArrayList.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson1_ArrayList\bin\Debug\netcoreapp3.1\Lesson1_ArrayList.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson1_ArrayList\bin\Debug\netcoreapp3.1\Lesson1_ArrayList.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson1_ArrayList\bin\Debug\netcoreapp3.1\Lesson1_ArrayList.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson1_ArrayList\obj\Debug\netcoreapp3.1\Lesson1_ArrayList.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson1_ArrayList\obj\Debug\netcoreapp3.1\Lesson1_ArrayList.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson1_ArrayList\obj\Debug\netcoreapp3.1\Lesson1_ArrayList.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson1_ArrayList\obj\Debug\netcoreapp3.1\Lesson1_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson1_ArrayList\obj\Debug\netcoreapp3.1\Lesson1_ArrayList.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson1_ArrayList\obj\Debug\netcoreapp3.1\Lesson1_ArrayList.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson1_ArrayList\obj\Debug\netcoreapp3.1\Lesson1_ArrayList.genruntimeconfig.cache

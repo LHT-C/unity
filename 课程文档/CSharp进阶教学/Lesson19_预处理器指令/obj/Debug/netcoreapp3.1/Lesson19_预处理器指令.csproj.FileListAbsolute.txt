@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson19_预处理器指令\bin\Debug\netcoreapp3.1\Lesson19_预处理器指令.exe
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson19_预处理器指令\bin\Debug\netcoreapp3.1\Lesson19_预处理器指令.deps.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson19_预处理器指令\bin\Debug\netcoreapp3.1\Lesson19_预处理器指令.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson19_预处理器指令\bin\Debug\netcoreapp3.1\Lesson19_预处理器指令.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson19_预处理器指令\bin\Debug\netcoreapp3.1\Lesson19_预处理器指令.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson19_预处理器指令\bin\Debug\netcoreapp3.1\Lesson19_预处理器指令.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson19_预处理器指令\obj\Debug\netcoreapp3.1\Lesson19_预处理器指令.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson19_预处理器指令\obj\Debug\netcoreapp3.1\Lesson19_预处理器指令.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson19_预处理器指令\obj\Debug\netcoreapp3.1\Lesson19_预处理器指令.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson19_预处理器指令\obj\Debug\netcoreapp3.1\Lesson19_预处理器指令.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson19_预处理器指令\obj\Debug\netcoreapp3.1\Lesson19_预处理器指令.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson19_预处理器指令\obj\Debug\netcoreapp3.1\Lesson19_预处理器指令.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson19_预处理器指令\obj\Debug\netcoreapp3.1\Lesson19_预处理器指令.genruntimeconfig.cache

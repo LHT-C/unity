@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson16_List排序\bin\Debug\netcoreapp3.1\Lesson16_List排序.exe
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson16_List排序\bin\Debug\netcoreapp3.1\Lesson16_List排序.deps.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson16_List排序\bin\Debug\netcoreapp3.1\Lesson16_List排序.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson16_List排序\bin\Debug\netcoreapp3.1\Lesson16_List排序.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson16_List排序\bin\Debug\netcoreapp3.1\Lesson16_List排序.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson16_List排序\bin\Debug\netcoreapp3.1\Lesson16_List排序.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson16_List排序\obj\Debug\netcoreapp3.1\Lesson16_List排序.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson16_List排序\obj\Debug\netcoreapp3.1\Lesson16_List排序.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson16_List排序\obj\Debug\netcoreapp3.1\Lesson16_List排序.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson16_List排序\obj\Debug\netcoreapp3.1\Lesson16_List排序.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson16_List排序\obj\Debug\netcoreapp3.1\Lesson16_List排序.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson16_List排序\obj\Debug\netcoreapp3.1\Lesson16_List排序.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson16_List排序\obj\Debug\netcoreapp3.1\Lesson16_List排序.genruntimeconfig.cache

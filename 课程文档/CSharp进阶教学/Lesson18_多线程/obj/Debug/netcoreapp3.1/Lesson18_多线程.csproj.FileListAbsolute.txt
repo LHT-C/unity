@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson18_多线程\bin\Debug\netcoreapp3.1\Lesson18_多线程.exe
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson18_多线程\bin\Debug\netcoreapp3.1\Lesson18_多线程.deps.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson18_多线程\bin\Debug\netcoreapp3.1\Lesson18_多线程.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson18_多线程\bin\Debug\netcoreapp3.1\Lesson18_多线程.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson18_多线程\bin\Debug\netcoreapp3.1\Lesson18_多线程.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson18_多线程\bin\Debug\netcoreapp3.1\Lesson18_多线程.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson18_多线程\obj\Debug\netcoreapp3.1\Lesson18_多线程.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson18_多线程\obj\Debug\netcoreapp3.1\Lesson18_多线程.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson18_多线程\obj\Debug\netcoreapp3.1\Lesson18_多线程.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson18_多线程\obj\Debug\netcoreapp3.1\Lesson18_多线程.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson18_多线程\obj\Debug\netcoreapp3.1\Lesson18_多线程.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson18_多线程\obj\Debug\netcoreapp3.1\Lesson18_多线程.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson18_多线程\obj\Debug\netcoreapp3.1\Lesson18_多线程.genruntimeconfig.cache

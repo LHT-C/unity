@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson21_特性\bin\Debug\netcoreapp3.1\Lesson21_特性.exe
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson21_特性\bin\Debug\netcoreapp3.1\Lesson21_特性.deps.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson21_特性\bin\Debug\netcoreapp3.1\Lesson21_特性.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson21_特性\bin\Debug\netcoreapp3.1\Lesson21_特性.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson21_特性\bin\Debug\netcoreapp3.1\Lesson21_特性.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson21_特性\bin\Debug\netcoreapp3.1\Lesson21_特性.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson21_特性\obj\Debug\netcoreapp3.1\Lesson21_特性.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson21_特性\obj\Debug\netcoreapp3.1\Lesson21_特性.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson21_特性\obj\Debug\netcoreapp3.1\Lesson21_特性.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson21_特性\obj\Debug\netcoreapp3.1\Lesson21_特性.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson21_特性\obj\Debug\netcoreapp3.1\Lesson21_特性.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson21_特性\obj\Debug\netcoreapp3.1\Lesson21_特性.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson21_特性\obj\Debug\netcoreapp3.1\Lesson21_特性.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson2_Stack\bin\Debug\netcoreapp3.1\Lesson2_Stack.exe
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson2_Stack\bin\Debug\netcoreapp3.1\Lesson2_Stack.deps.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson2_Stack\bin\Debug\netcoreapp3.1\Lesson2_Stack.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson2_Stack\bin\Debug\netcoreapp3.1\Lesson2_Stack.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson2_Stack\bin\Debug\netcoreapp3.1\Lesson2_Stack.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson2_Stack\bin\Debug\netcoreapp3.1\Lesson2_Stack.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson2_Stack\obj\Debug\netcoreapp3.1\Lesson2_Stack.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson2_Stack\obj\Debug\netcoreapp3.1\Lesson2_Stack.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson2_Stack\obj\Debug\netcoreapp3.1\Lesson2_Stack.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson2_Stack\obj\Debug\netcoreapp3.1\Lesson2_Stack.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson2_Stack\obj\Debug\netcoreapp3.1\Lesson2_Stack.dll
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson2_Stack\obj\Debug\netcoreapp3.1\Lesson2_Stack.pdb
+C:\Users\MECHREVO\Desktop\CSharp进阶教学\Lesson2_Stack\obj\Debug\netcoreapp3.1\Lesson2_Stack.genruntimeconfig.cache
