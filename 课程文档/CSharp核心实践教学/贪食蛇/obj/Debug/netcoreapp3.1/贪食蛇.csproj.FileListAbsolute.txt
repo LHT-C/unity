@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\贪食蛇\bin\Debug\netcoreapp3.1\贪食蛇.exe
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\贪食蛇\bin\Debug\netcoreapp3.1\贪食蛇.deps.json
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\贪食蛇\bin\Debug\netcoreapp3.1\贪食蛇.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\贪食蛇\bin\Debug\netcoreapp3.1\贪食蛇.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\贪食蛇\bin\Debug\netcoreapp3.1\贪食蛇.dll
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\贪食蛇\bin\Debug\netcoreapp3.1\贪食蛇.pdb
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\贪食蛇\obj\Debug\netcoreapp3.1\贪食蛇.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\贪食蛇\obj\Debug\netcoreapp3.1\贪食蛇.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\贪食蛇\obj\Debug\netcoreapp3.1\贪食蛇.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\贪食蛇\obj\Debug\netcoreapp3.1\贪食蛇.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\贪食蛇\obj\Debug\netcoreapp3.1\贪食蛇.dll
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\贪食蛇\obj\Debug\netcoreapp3.1\贪食蛇.pdb
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\贪食蛇\obj\Debug\netcoreapp3.1\贪食蛇.genruntimeconfig.cache

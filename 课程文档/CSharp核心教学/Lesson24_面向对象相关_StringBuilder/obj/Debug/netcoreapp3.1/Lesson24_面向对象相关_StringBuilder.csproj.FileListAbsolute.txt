@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson24_面向对象相关_StringBuilder\bin\Debug\netcoreapp3.1\Lesson24_面向对象相关_StringBuilder.exe
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson24_面向对象相关_StringBuilder\bin\Debug\netcoreapp3.1\Lesson24_面向对象相关_StringBuilder.deps.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson24_面向对象相关_StringBuilder\bin\Debug\netcoreapp3.1\Lesson24_面向对象相关_StringBuilder.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson24_面向对象相关_StringBuilder\bin\Debug\netcoreapp3.1\Lesson24_面向对象相关_StringBuilder.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson24_面向对象相关_StringBuilder\bin\Debug\netcoreapp3.1\Lesson24_面向对象相关_StringBuilder.dll
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson24_面向对象相关_StringBuilder\bin\Debug\netcoreapp3.1\Lesson24_面向对象相关_StringBuilder.pdb
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson24_面向对象相关_StringBuilder\obj\Debug\netcoreapp3.1\Lesson24_面向对象相关_StringBuilder.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson24_面向对象相关_StringBuilder\obj\Debug\netcoreapp3.1\Lesson24_面向对象相关_StringBuilder.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson24_面向对象相关_StringBuilder\obj\Debug\netcoreapp3.1\Lesson24_面向对象相关_StringBuilder.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson24_面向对象相关_StringBuilder\obj\Debug\netcoreapp3.1\Lesson24_面向对象相关_StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson24_面向对象相关_StringBuilder\obj\Debug\netcoreapp3.1\Lesson24_面向对象相关_StringBuilder.dll
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson24_面向对象相关_StringBuilder\obj\Debug\netcoreapp3.1\Lesson24_面向对象相关_StringBuilder.pdb
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson24_面向对象相关_StringBuilder\obj\Debug\netcoreapp3.1\Lesson24_面向对象相关_StringBuilder.genruntimeconfig.cache

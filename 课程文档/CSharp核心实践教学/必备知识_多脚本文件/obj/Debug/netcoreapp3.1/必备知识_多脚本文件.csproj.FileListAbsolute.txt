@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\必备知识_多脚本文件\bin\Debug\netcoreapp3.1\必备知识_多脚本文件.exe
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\必备知识_多脚本文件\bin\Debug\netcoreapp3.1\必备知识_多脚本文件.deps.json
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\必备知识_多脚本文件\bin\Debug\netcoreapp3.1\必备知识_多脚本文件.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\必备知识_多脚本文件\bin\Debug\netcoreapp3.1\必备知识_多脚本文件.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\必备知识_多脚本文件\bin\Debug\netcoreapp3.1\必备知识_多脚本文件.dll
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\必备知识_多脚本文件\bin\Debug\netcoreapp3.1\必备知识_多脚本文件.pdb
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\必备知识_多脚本文件\obj\Debug\netcoreapp3.1\必备知识_多脚本文件.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\必备知识_多脚本文件\obj\Debug\netcoreapp3.1\必备知识_多脚本文件.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\必备知识_多脚本文件\obj\Debug\netcoreapp3.1\必备知识_多脚本文件.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\必备知识_多脚本文件\obj\Debug\netcoreapp3.1\必备知识_多脚本文件.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\必备知识_多脚本文件\obj\Debug\netcoreapp3.1\必备知识_多脚本文件.dll
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\必备知识_多脚本文件\obj\Debug\netcoreapp3.1\必备知识_多脚本文件.pdb
+C:\Users\MECHREVO\Desktop\CSharp核心实践教学\必备知识_多脚本文件\obj\Debug\netcoreapp3.1\必备知识_多脚本文件.genruntimeconfig.cache
