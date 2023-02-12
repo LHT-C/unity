@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\source\repos\CSharp入门实践教程\必备知识点_控制台相关\bin\Debug\netcoreapp3.1\必备知识点_控制台相关.exe
+C:\Users\MECHREVO\source\repos\CSharp入门实践教程\必备知识点_控制台相关\bin\Debug\netcoreapp3.1\必备知识点_控制台相关.deps.json
+C:\Users\MECHREVO\source\repos\CSharp入门实践教程\必备知识点_控制台相关\bin\Debug\netcoreapp3.1\必备知识点_控制台相关.runtimeconfig.json
+C:\Users\MECHREVO\source\repos\CSharp入门实践教程\必备知识点_控制台相关\bin\Debug\netcoreapp3.1\必备知识点_控制台相关.runtimeconfig.dev.json
+C:\Users\MECHREVO\source\repos\CSharp入门实践教程\必备知识点_控制台相关\bin\Debug\netcoreapp3.1\必备知识点_控制台相关.dll
+C:\Users\MECHREVO\source\repos\CSharp入门实践教程\必备知识点_控制台相关\bin\Debug\netcoreapp3.1\必备知识点_控制台相关.pdb
+C:\Users\MECHREVO\source\repos\CSharp入门实践教程\必备知识点_控制台相关\obj\Debug\netcoreapp3.1\必备知识点_控制台相关.csprojAssemblyReference.cache
+C:\Users\MECHREVO\source\repos\CSharp入门实践教程\必备知识点_控制台相关\obj\Debug\netcoreapp3.1\必备知识点_控制台相关.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\source\repos\CSharp入门实践教程\必备知识点_控制台相关\obj\Debug\netcoreapp3.1\必备知识点_控制台相关.AssemblyInfo.cs
+C:\Users\MECHREVO\source\repos\CSharp入门实践教程\必备知识点_控制台相关\obj\Debug\netcoreapp3.1\必备知识点_控制台相关.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\source\repos\CSharp入门实践教程\必备知识点_控制台相关\obj\Debug\netcoreapp3.1\必备知识点_控制台相关.dll
+C:\Users\MECHREVO\source\repos\CSharp入门实践教程\必备知识点_控制台相关\obj\Debug\netcoreapp3.1\必备知识点_控制台相关.pdb
+C:\Users\MECHREVO\source\repos\CSharp入门实践教程\必备知识点_控制台相关\obj\Debug\netcoreapp3.1\必备知识点_控制台相关.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson17_条件分支语句_switch\bin\Debug\netcoreapp3.1\Lesson17_条件分支语句_switch.exe
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson17_条件分支语句_switch\bin\Debug\netcoreapp3.1\Lesson17_条件分支语句_switch.deps.json
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson17_条件分支语句_switch\bin\Debug\netcoreapp3.1\Lesson17_条件分支语句_switch.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson17_条件分支语句_switch\bin\Debug\netcoreapp3.1\Lesson17_条件分支语句_switch.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson17_条件分支语句_switch\bin\Debug\netcoreapp3.1\Lesson17_条件分支语句_switch.dll
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson17_条件分支语句_switch\bin\Debug\netcoreapp3.1\Lesson17_条件分支语句_switch.pdb
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson17_条件分支语句_switch\obj\Debug\netcoreapp3.1\Lesson17_条件分支语句_switch.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson17_条件分支语句_switch\obj\Debug\netcoreapp3.1\Lesson17_条件分支语句_switch.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson17_条件分支语句_switch\obj\Debug\netcoreapp3.1\Lesson17_条件分支语句_switch.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson17_条件分支语句_switch\obj\Debug\netcoreapp3.1\Lesson17_条件分支语句_switch.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson17_条件分支语句_switch\obj\Debug\netcoreapp3.1\Lesson17_条件分支语句_switch.dll
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson17_条件分支语句_switch\obj\Debug\netcoreapp3.1\Lesson17_条件分支语句_switch.pdb
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson17_条件分支语句_switch\obj\Debug\netcoreapp3.1\Lesson17_条件分支语句_switch.genruntimeconfig.cache

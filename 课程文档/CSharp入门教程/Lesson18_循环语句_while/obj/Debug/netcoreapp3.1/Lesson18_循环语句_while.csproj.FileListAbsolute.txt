@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson18_循环语句_while\bin\Debug\netcoreapp3.1\Lesson18_循环语句_while.exe
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson18_循环语句_while\bin\Debug\netcoreapp3.1\Lesson18_循环语句_while.deps.json
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson18_循环语句_while\bin\Debug\netcoreapp3.1\Lesson18_循环语句_while.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson18_循环语句_while\bin\Debug\netcoreapp3.1\Lesson18_循环语句_while.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson18_循环语句_while\bin\Debug\netcoreapp3.1\Lesson18_循环语句_while.dll
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson18_循环语句_while\bin\Debug\netcoreapp3.1\Lesson18_循环语句_while.pdb
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson18_循环语句_while\obj\Debug\netcoreapp3.1\Lesson18_循环语句_while.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson18_循环语句_while\obj\Debug\netcoreapp3.1\Lesson18_循环语句_while.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson18_循环语句_while\obj\Debug\netcoreapp3.1\Lesson18_循环语句_while.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson18_循环语句_while\obj\Debug\netcoreapp3.1\Lesson18_循环语句_while.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson18_循环语句_while\obj\Debug\netcoreapp3.1\Lesson18_循环语句_while.dll
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson18_循环语句_while\obj\Debug\netcoreapp3.1\Lesson18_循环语句_while.pdb
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson18_循环语句_while\obj\Debug\netcoreapp3.1\Lesson18_循环语句_while.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\必备知识点_随机数\bin\Debug\netcoreapp3.1\必备知识点_随机数.exe
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\必备知识点_随机数\bin\Debug\netcoreapp3.1\必备知识点_随机数.deps.json
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\必备知识点_随机数\bin\Debug\netcoreapp3.1\必备知识点_随机数.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\必备知识点_随机数\bin\Debug\netcoreapp3.1\必备知识点_随机数.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\必备知识点_随机数\bin\Debug\netcoreapp3.1\必备知识点_随机数.dll
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\必备知识点_随机数\bin\Debug\netcoreapp3.1\必备知识点_随机数.pdb
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\必备知识点_随机数\obj\Debug\netcoreapp3.1\必备知识点_随机数.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\必备知识点_随机数\obj\Debug\netcoreapp3.1\必备知识点_随机数.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\必备知识点_随机数\obj\Debug\netcoreapp3.1\必备知识点_随机数.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\必备知识点_随机数\obj\Debug\netcoreapp3.1\必备知识点_随机数.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\必备知识点_随机数\obj\Debug\netcoreapp3.1\必备知识点_随机数.dll
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\必备知识点_随机数\obj\Debug\netcoreapp3.1\必备知识点_随机数.pdb
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\必备知识点_随机数\obj\Debug\netcoreapp3.1\必备知识点_随机数.genruntimeconfig.cache

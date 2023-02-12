@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nrcXz4hKeR2P27wOkGnYUe/cdZF8HmtOQMHDnX5XwA5DkJrzHM31fgfzpG4zkkrWGXnDvo9DxQpzKAv5lvZ7tg==",
+  "success": true,
+  "projectFilePath": "G:\\u3d\\CSharp入门实践教程\\必备知识点_随机数\\必备知识点_随机数.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eden\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\eden\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\eden\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\eden\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

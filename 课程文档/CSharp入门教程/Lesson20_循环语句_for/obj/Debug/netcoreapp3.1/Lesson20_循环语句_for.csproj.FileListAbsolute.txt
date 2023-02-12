@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson20_循环语句_for\bin\Debug\netcoreapp3.1\Lesson20_循环语句_for.exe
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson20_循环语句_for\bin\Debug\netcoreapp3.1\Lesson20_循环语句_for.deps.json
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson20_循环语句_for\bin\Debug\netcoreapp3.1\Lesson20_循环语句_for.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson20_循环语句_for\bin\Debug\netcoreapp3.1\Lesson20_循环语句_for.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson20_循环语句_for\bin\Debug\netcoreapp3.1\Lesson20_循环语句_for.dll
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson20_循环语句_for\bin\Debug\netcoreapp3.1\Lesson20_循环语句_for.pdb
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson20_循环语句_for\obj\Debug\netcoreapp3.1\Lesson20_循环语句_for.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson20_循环语句_for\obj\Debug\netcoreapp3.1\Lesson20_循环语句_for.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson20_循环语句_for\obj\Debug\netcoreapp3.1\Lesson20_循环语句_for.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson20_循环语句_for\obj\Debug\netcoreapp3.1\Lesson20_循环语句_for.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson20_循环语句_for\obj\Debug\netcoreapp3.1\Lesson20_循环语句_for.dll
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson20_循环语句_for\obj\Debug\netcoreapp3.1\Lesson20_循环语句_for.pdb
+C:\Users\MECHREVO\Desktop\CSharp入门教程\Lesson20_循环语句_for\obj\Debug\netcoreapp3.1\Lesson20_循环语句_for.genruntimeconfig.cache

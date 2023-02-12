@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\入门实践\bin\Debug\netcoreapp3.1\入门实践.exe
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\入门实践\bin\Debug\netcoreapp3.1\入门实践.deps.json
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\入门实践\bin\Debug\netcoreapp3.1\入门实践.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\入门实践\bin\Debug\netcoreapp3.1\入门实践.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\入门实践\bin\Debug\netcoreapp3.1\入门实践.dll
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\入门实践\bin\Debug\netcoreapp3.1\入门实践.pdb
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\入门实践\obj\Debug\netcoreapp3.1\入门实践.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\入门实践\obj\Debug\netcoreapp3.1\入门实践.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\入门实践\obj\Debug\netcoreapp3.1\入门实践.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\入门实践\obj\Debug\netcoreapp3.1\入门实践.dll
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\入门实践\obj\Debug\netcoreapp3.1\入门实践.pdb
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\入门实践\obj\Debug\netcoreapp3.1\入门实践.genruntimeconfig.cache
+C:\Users\MECHREVO\Desktop\CSharp入门实践教程\入门实践\obj\Debug\netcoreapp3.1\入门实践.csprojAssemblyReference.cache

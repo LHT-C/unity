@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WVHa/7BgRdHw+SxwhJ8OZcA6Y8j9Q0CaD9/cm3AfiS+xCIX6hxDLcgmmD2Tr6X0qUWaachDMNo7BhzPkzkZ/2g==",
+  "success": true,
+  "projectFilePath": "G:\\u3d\\CSharp入门实践教程\\必备知识点_控制台相关\\必备知识点_控制台相关.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eden\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\eden\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\eden\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\eden\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
