@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson8_ref和out\bin\Debug\netcoreapp3.1\Lesson8_ref和out.exe
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson8_ref和out\bin\Debug\netcoreapp3.1\Lesson8_ref和out.deps.json
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson8_ref和out\bin\Debug\netcoreapp3.1\Lesson8_ref和out.runtimeconfig.json
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson8_ref和out\bin\Debug\netcoreapp3.1\Lesson8_ref和out.runtimeconfig.dev.json
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson8_ref和out\bin\Debug\netcoreapp3.1\Lesson8_ref和out.dll
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson8_ref和out\bin\Debug\netcoreapp3.1\Lesson8_ref和out.pdb
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson8_ref和out\obj\Debug\netcoreapp3.1\Lesson8_ref和out.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson8_ref和out\obj\Debug\netcoreapp3.1\Lesson8_ref和out.AssemblyInfo.cs
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson8_ref和out\obj\Debug\netcoreapp3.1\Lesson8_ref和out.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson8_ref和out\obj\Debug\netcoreapp3.1\Lesson8_ref和out.dll
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson8_ref和out\obj\Debug\netcoreapp3.1\Lesson8_ref和out.pdb
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson8_ref和out\obj\Debug\netcoreapp3.1\Lesson8_ref和out.genruntimeconfig.cache
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson8_ref和out\obj\Debug\netcoreapp3.1\Lesson8_ref和out.csprojAssemblyReference.cache

@@ -11,3 +11,17 @@ C:\Users\MECHREVO\Desktop\CSharp入门实践教程\入门实践\obj\Debug\netcor
 C:\Users\MECHREVO\Desktop\CSharp入门实践教程\入门实践\obj\Debug\netcoreapp3.1\入门实践.pdb
 C:\Users\MECHREVO\Desktop\CSharp入门实践教程\入门实践\obj\Debug\netcoreapp3.1\入门实践.genruntimeconfig.cache
 C:\Users\MECHREVO\Desktop\CSharp入门实践教程\入门实践\obj\Debug\netcoreapp3.1\入门实践.csprojAssemblyReference.cache
+D:\U3D workspace\workspace\unity\课程文档\CSharp入门实践教程\入门实践\bin\Debug\netcoreapp3.1\入门实践.exe
+D:\U3D workspace\workspace\unity\课程文档\CSharp入门实践教程\入门实践\bin\Debug\netcoreapp3.1\入门实践.deps.json
+D:\U3D workspace\workspace\unity\课程文档\CSharp入门实践教程\入门实践\bin\Debug\netcoreapp3.1\入门实践.runtimeconfig.json
+D:\U3D workspace\workspace\unity\课程文档\CSharp入门实践教程\入门实践\bin\Debug\netcoreapp3.1\入门实践.runtimeconfig.dev.json
+D:\U3D workspace\workspace\unity\课程文档\CSharp入门实践教程\入门实践\bin\Debug\netcoreapp3.1\入门实践.dll
+D:\U3D workspace\workspace\unity\课程文档\CSharp入门实践教程\入门实践\bin\Debug\netcoreapp3.1\入门实践.pdb
+D:\U3D workspace\workspace\unity\课程文档\CSharp入门实践教程\入门实践\obj\Debug\netcoreapp3.1\入门实践.csproj.AssemblyReference.cache
+D:\U3D workspace\workspace\unity\课程文档\CSharp入门实践教程\入门实践\obj\Debug\netcoreapp3.1\入门实践.GeneratedMSBuildEditorConfig.editorconfig
+D:\U3D workspace\workspace\unity\课程文档\CSharp入门实践教程\入门实践\obj\Debug\netcoreapp3.1\入门实践.AssemblyInfoInputs.cache
+D:\U3D workspace\workspace\unity\课程文档\CSharp入门实践教程\入门实践\obj\Debug\netcoreapp3.1\入门实践.AssemblyInfo.cs
+D:\U3D workspace\workspace\unity\课程文档\CSharp入门实践教程\入门实践\obj\Debug\netcoreapp3.1\入门实践.csproj.CoreCompileInputs.cache
+D:\U3D workspace\workspace\unity\课程文档\CSharp入门实践教程\入门实践\obj\Debug\netcoreapp3.1\入门实践.dll
+D:\U3D workspace\workspace\unity\课程文档\CSharp入门实践教程\入门实践\obj\Debug\netcoreapp3.1\入门实践.pdb
+D:\U3D workspace\workspace\unity\课程文档\CSharp入门实践教程\入门实践\obj\Debug\netcoreapp3.1\入门实践.genruntimeconfig.cache

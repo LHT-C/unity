@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson7_函数\bin\Debug\netcoreapp3.1\Lesson7_函数.exe
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson7_函数\bin\Debug\netcoreapp3.1\Lesson7_函数.deps.json
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson7_函数\bin\Debug\netcoreapp3.1\Lesson7_函数.runtimeconfig.json
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson7_函数\bin\Debug\netcoreapp3.1\Lesson7_函数.runtimeconfig.dev.json
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson7_函数\bin\Debug\netcoreapp3.1\Lesson7_函数.dll
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson7_函数\bin\Debug\netcoreapp3.1\Lesson7_函数.pdb
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson7_函数\obj\Debug\netcoreapp3.1\Lesson7_函数.csprojAssemblyReference.cache
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson7_函数\obj\Debug\netcoreapp3.1\Lesson7_函数.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson7_函数\obj\Debug\netcoreapp3.1\Lesson7_函数.AssemblyInfo.cs
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson7_函数\obj\Debug\netcoreapp3.1\Lesson7_函数.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson7_函数\obj\Debug\netcoreapp3.1\Lesson7_函数.dll
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson7_函数\obj\Debug\netcoreapp3.1\Lesson7_函数.pdb
+C:\Users\MECHREVO\source\repos\CSharp基础教学\Lesson7_函数\obj\Debug\netcoreapp3.1\Lesson7_函数.genruntimeconfig.cache
