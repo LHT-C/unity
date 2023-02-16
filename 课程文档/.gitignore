@@ -34,3 +34,7 @@
 .vs
 *.meta
 *.unity
+
+*.csproj
+*/*/bin/
+*/*/obj/
