@@ -36,5 +36,5 @@
 *.unity
 
 *.csproj
-*/*/bin/
-*/*/obj/
+*/*/*/bin/
+*/*/*/obj/
